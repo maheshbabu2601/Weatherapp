@@ -8,3 +8,9 @@ A Streamlit web app that fetches real-time weather and gives smart outfit/activi
 3. Install dependencies:
 ```bash
 pip install -r requirements.txt
+
+
+
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://https://weatherapp-zfhwet2f5wdgtzq4dv9uau.streamlit.app/)
+
