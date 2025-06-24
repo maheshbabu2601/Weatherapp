@@ -12,5 +12,6 @@ pip install -r requirements.txt
 
 
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://https://weatherapp-zfhwet2f5wdgtzq4dv9uau.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
+https://https://weatherapp-zfhwet2f5wdgtzq4dv9uau.streamlit.app/
 
